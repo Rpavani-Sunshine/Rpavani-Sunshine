@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpavani-sunshine&label=Profile%20views&color=0e75b6&style=flat" alt="rpavani-sunshine" /> </p>
 
 
-- 🔭 I’m currently working on **Tweeter Clone**
-
 - 🌱 I’m currently learning **Angular, Bootstrap**
 
 - 💬 Ask me about **React**
