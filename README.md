@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpavani-sunshine&label=Profile%20views&color=0e75b6&style=flat" alt="rpavani-sunshine" /> </p>
 
 
-- 🌱 I’m currently learning **Angular, Bootstrap**
+- 🌱 I’m currently learning **MERN, Bootstrap**
 
 - 💬 Ask me about **React**
 
